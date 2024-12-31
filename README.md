@@ -1,13 +1,13 @@
 # Lendmart-A-Sharing-Connection
- **Lendmart** is a mobile app developed using **React-Native** and **Google Firebase**.This app is developed for selling and buying of used or unused products. Users can post their available items and who ever is interested in that product would schedule a time for the item to pick up.This is a basic application with necessary functionalities.
+**Lendmart** is a mobile application built using **React-Native** and **Google Firebase**. It serves as a platform for buying and selling pre-owned or unused products. Users can list items they wish to sell, and interested buyers can schedule a pick-up time for the items. The app focuses on delivering the core features needed for a simple and efficient experience.
 
- **Folder Structure:**
- 1. **package.json**  file contains all the packages that are being installed for the usage of this application.
- 2. **App.js** file contains the components with the app will begin.
- 3. **Screen** folder contains all the pages that the app contains.
- 4. **Navigation** folder contains all types of navigation used in the app like Stack Navigation, Tab Navigation.
- 5. **assets** folder contains the default images used in the app like Icons.
- 6. **Components** folder contains the pages that are frequently used in the app like products display.
- 7. **Constants** folder contains the constant values that are unchanged. Here we have stored the Hexadecimal values for the colors that are used throughout the application.
- 8. **config.js** file contains the Firebase configuration key.
-
+**Folder Structure:**
+1. **package.json** file lists all the dependencies required to run and build the application.
+2. **App.js** file acts as the main entry point and initializes the components.
+3. **Screen** folder includes all the different pages of the app.
+4. **Navigation** folder handles the app's navigation setup, including Stack Navigation and Tab Navigation.
+5. **assets** folder contains default media files like icons and images used within the app.
+6. **Components** folder stores reusable components, such as those used for displaying product information.
+7. **Constants** folder holds fixed values, including color codes (in hexadecimal format) used consistently across the app.
+8. **config.js** file contains the Firebase credentials and configuration necessary for connecting to the database.
+```
